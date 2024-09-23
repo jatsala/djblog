@@ -1,0 +1,1 @@
+web: gnicorn django_blog.wsgi
